@@ -1,0 +1,43 @@
+body {
+  width: 100%;
+  margin: 0px;
+}
+input,
+button {
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.root {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 50px;
+}
+.App {
+  padding: 5px;
+}
+
+.https {
+  margin-left: 15px;
+  color: grey;
+}
+
+.querySection {
+  margin-top: 30px;
+}
+
+.urlSection {
+  padding-top: 30px;
+}
+
+.urlHeading {
+  color: grey;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.url {
+  max-width: 350px;
+  overflow-wrap: break-word;
+}
